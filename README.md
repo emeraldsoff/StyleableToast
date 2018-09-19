@@ -52,7 +52,7 @@ An Android library that takes the standard toast to the next level with many sty
     
 ## Installation
 
-Add the depedency in your `build.gradle`
+Add the dependency in your `build.gradle`
 ```groovy
 dependencies {
     implementation 'com.muddzdev:styleabletoast:2.1.2'   
